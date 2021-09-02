@@ -1,0 +1,72 @@
+{
+    "detail": {
+        "name": "Priyadharsini",
+        "email": "priyadharsini@gmail.com",
+        "phone": "+91 XXXXXXXXXX",
+        "degree": "B.E",
+        "summary": "Software professional 4.5 years of experience in Production Support  with sound knowledge in Oracle 10g/11g, SQL, and Unix.",
+        "location": {
+            "address": "1, Alpha st",
+            "pin-code": "600001",
+            "city": "chennai"
+        }
+    },
+    "education": {
+        "institution": "ABC Enginerring Collage",
+        "area": "Chennai",
+        "studyType": "B.E",
+        "startDate": "01-06-2012",
+        "endDate": "30-06-2016",
+        "cgpa": "70%",
+        "course": [
+            "Computer Science"
+        ]
+    },
+    "work": {
+        "company": "DTCC",
+        "position": "Software Engineer",
+        "startDate": "01-07-2016",
+        "endDate": "Still working",
+        "summary": "Software professional 4.5 years of experience in Production Support  with sound knowledge in Oracle 10g/11g, SQL, and Unix",
+        "highlights": [
+            "Worked in 24/7 Rotational Shift as L1/L2 support for ITIL process."
+        ]
+    },
+    "technical-skills": {
+        "database": "Oracle 10g / 11g",
+        "language": "SQL, Unix",
+        "tools": "SQL Developer, Toad, Putty, Avada, scure crt, Tplux, Splunk,AWS",
+        "operating-system": [
+            "unix,windows"
+        ]
+    },
+    "paper-published": {
+        "title": "Simplified data serch using imputation approach",
+        "date": "17-04-2016",
+        "summary": "Online voting system using imputation approach "
+    },
+    "projects-worked": {
+        "name": [
+            "Standard Bank",
+            "DTCC"
+        ],
+        "level": "Junior software Engineer",
+        "Skill": [
+            "Unix",
+            "Oracle"
+        ]
+    },
+    "languages": {
+        "language": "Tamil",
+        "fluency": [
+            "Tamil",
+            "English"
+        ]
+    },
+    "interests": [
+        "playing games",
+        " editing photos",
+        "crafting",
+        "painting"
+    ]
+}
